@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.fa279c86.chunk.css",
+    "main.js": "/portfolio/static/js/main.c2eda111.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.c2eda111.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.142564e4.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.142564e4.js.map",
+    "static/js/2.db1b0461.chunk.js": "/portfolio/static/js/2.db1b0461.chunk.js",
+    "static/js/2.db1b0461.chunk.js.map": "/portfolio/static/js/2.db1b0461.chunk.js.map",
+    "static/js/3.0b7be681.chunk.js": "/portfolio/static/js/3.0b7be681.chunk.js",
+    "static/js/3.0b7be681.chunk.js.map": "/portfolio/static/js/3.0b7be681.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.fa279c86.chunk.css.map": "/portfolio/static/css/main.fa279c86.chunk.css.map",
+    "static/js/2.db1b0461.chunk.js.LICENSE.txt": "/portfolio/static/js/2.db1b0461.chunk.js.LICENSE.txt",
+    "static/media/BlockMaster.bfa4feff.JPG": "/portfolio/static/media/BlockMaster.bfa4feff.JPG",
+    "static/media/IMC.0eceeaee.JPG": "/portfolio/static/media/IMC.0eceeaee.JPG",
+    "static/media/MoviesPage.2664cd94.JPG": "/portfolio/static/media/MoviesPage.2664cd94.JPG",
+    "static/media/conversor.e25dca48.JPG": "/portfolio/static/media/conversor.e25dca48.JPG",
+    "static/media/fotogg.5b122dff.jpeg": "/portfolio/static/media/fotogg.5b122dff.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.142564e4.js",
+    "static/js/2.db1b0461.chunk.js",
+    "static/css/main.fa279c86.chunk.css",
+    "static/js/main.c2eda111.chunk.js"
+  ]
+}
