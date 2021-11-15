@@ -1,25 +1,25 @@
-import logo from './logo.svg';
-import './App.css';
+import { ThemeProvider } from "styled-components";
+import MainSection from "./components/MainSection";
+import Projects from "./components/Projects";
+import NavBar from "./components/NavBar";
+import Contact from "./components/Contact";
+
+const theme = {
+  white: "#f0f0f0",
+  red: "#be3144",
+  blue: "#45567d",
+  gray: "#303841",
+}
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    <ThemeProvider theme={theme}>
+      <MainSection/> 
+      <Projects/>
+      <NavBar/>
+      <Contact/>
+    </ThemeProvider>
+ )
 }
 
 export default App;
